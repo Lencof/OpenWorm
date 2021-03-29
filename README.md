@@ -43,6 +43,8 @@ an external hard disk.  On MacOS X, the location for image storage
 can be specified in the [Advanced Tab](https://forums.docker.com/t/change-docker-image-directory-for-mac/18891/15) in Preferences.  See [this thread](https://forums.docker.com/t/how-do-i-change-the-docker-image-installation-directory/1169/18)
 in addition for Linux instructions.  
 
+`pip install -r requirements.txt`
+
 **Running**
 
 1. Ensure the Docker daemon is running in the background (on MacOS/Windows there should be an icon with the Docker whale logo showing in the menu bar/system tray). 
