@@ -1,1 +1,7 @@
-
+errno
+matplotlib
+shutil
+pwd
+shlex
+glob
+math
